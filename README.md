@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+Hello and Welcome to Git!
+
+Here we will begin committing great code to repositories we create. 
+
+Join Us!
